@@ -1,7 +1,7 @@
 # Harbour: An agent for containers
 
 ## What is Harbour
-Harbour is a container node agent, which runs on the host machine, works as a proxy for containers to eliminate the differences of containers. For example, harbour takes over docker local socket and network port to provides services for clients.
+Harbour is a container node agent, which runs on the host machine, works as a proxy for users to eliminate the differences between containers. For example, harbour takes over docker local socket and network port to provides services for clients.
 
 ## Try it out
 
